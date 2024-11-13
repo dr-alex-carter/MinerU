@@ -16,3 +16,4 @@ pypandoc
 struct-eqtable==0.1.0
 doclayout-yolo==0.0.2
 detectron2
+modelscope
